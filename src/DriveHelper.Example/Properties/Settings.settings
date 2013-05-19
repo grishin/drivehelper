@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Drive.Example.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="GoogleDriveClientId" Type="System.String" Scope="User">
+      <Value Profile="(Default)">665257690651-aji1ca6q48hc6vhqv2mob7u5j737g65r.apps.googleusercontent.com</Value>
+    </Setting>
+    <Setting Name="GoogleDriveClientSecret" Type="System.String" Scope="User">
+      <Value Profile="(Default)">mZU6BdEO-9tWlWnUqwnDwxAe</Value>
+    </Setting>
+    <Setting Name="GoogleDriveRefreshToken" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1/GYKwB4ZHkILaW8S-Jh9DrYlwvVYfQaBv1qQrgIbHKhI</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

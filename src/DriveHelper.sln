@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Web
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DriveHelper.RefreshTokenGenerator", "DriveHelper.RefreshTokenGenerator\DriveHelper.RefreshTokenGenerator.csproj", "{D9F1E067-3570-41A4-A3B9-E9800084E691}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DriveHelper.Service", "DriveHelper.Service\DriveHelper.Service.csproj", "{0E8D7F36-E055-4C75-BD57-BEE7D4016F81}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DriveHelper.Example", "DriveHelper.Example\DriveHelper.Example.csproj", "{BF8A4DE3-3D59-4F8B-ABA8-123A6B2E2E56}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9F1E067-3570-41A4-A3B9-E9800084E691}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9F1E067-3570-41A4-A3B9-E9800084E691}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9F1E067-3570-41A4-A3B9-E9800084E691}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9F1E067-3570-41A4-A3B9-E9800084E691}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E8D7F36-E055-4C75-BD57-BEE7D4016F81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E8D7F36-E055-4C75-BD57-BEE7D4016F81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E8D7F36-E055-4C75-BD57-BEE7D4016F81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E8D7F36-E055-4C75-BD57-BEE7D4016F81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF8A4DE3-3D59-4F8B-ABA8-123A6B2E2E56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF8A4DE3-3D59-4F8B-ABA8-123A6B2E2E56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF8A4DE3-3D59-4F8B-ABA8-123A6B2E2E56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF8A4DE3-3D59-4F8B-ABA8-123A6B2E2E56}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
